@@ -22,9 +22,11 @@
 ## **District 1**
 
 * [Chemical Plant](./District1/Chemical_Plant/) (network, ics)
+* [You can't see me](./District1/You_cant_see_me) (network, ics)
 * [Audible Transmission](./District1/AudibleTransmission/) (stego)
 * [Factory Reset](./District1/FactoryReset/) (network, linux)
 * [Technical debt](./District1/Technical_debt/) (network)
+* [Port Authority](./District1/Port_Authority/) (ppc)
 
 ## **District 2**
 
